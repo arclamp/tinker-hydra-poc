@@ -1,0 +1,4 @@
+db:
+  driver: mysql
+  user: roni
+  pass: hunter2
